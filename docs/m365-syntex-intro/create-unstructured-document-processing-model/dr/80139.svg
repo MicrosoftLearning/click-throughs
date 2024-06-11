@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" xml:space="preserve" style="enable-background:new 0 0 36 36;" viewBox="0 0 36 36" y="0px" x="0px" id="S_Target_18_N_2x" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"><style type="text/css">
+	.st0{fill:#447FC1;}
+	.st1{fill:#5480C1;}
+</style><path data-cppathid="10000" d="M18,2C9.2,2,2,9.2,2,18s7.2,16,16,16s16-7.2,16-16S26.8,2,18,2z M18,28.2c-5.6,0-10.2-4.6-10.2-10.2  S12.4,7.8,18,7.8S28.2,12.4,28.2,18S23.6,28.2,18,28.2L18,28.2z" class="st0"/><circle data-cppathid="10001" r="4" cy="18" cx="18" class="st1"/></svg>

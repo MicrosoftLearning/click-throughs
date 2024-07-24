@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=3, user-scalable=1"
+    />
+    <title>Set up leave and absence types</title>
+    <script src="scormdriver.js" charset="utf-8"></script>
+    <script>
+      USE_LEGACY_IDENTIFIERS_FOR_2004 = true;
+      REVIEW_MODE_IS_READ_ONLY = false;
+      window.onbeforeunload = () => window.Unload();
+      const LoadContent = function () {
+        [
+          "assets/js/project.js",
+          "dist/main.chunk.js",
+          "dist/runtime-main.bundle.js",
+          "dist/vendors-main.chunk.js",
+        ].forEach((src) => {
+          script = document.createElement("script");
+          script.src = src;
+          script.charset = "utf-8";
+          script.async = false;
+          document.body.appendChild(script);
+        });
+      };
+    </script>
+  </head>
+  <body onload="Start()">
+    <div id="app" style="width: 100%; height: 100%"></div>
+  </body>
+</html>

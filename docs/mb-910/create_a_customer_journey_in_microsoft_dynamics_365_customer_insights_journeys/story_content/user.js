@@ -1,11 +1,4 @@
-function ExecuteScript(strId)
-{
-  switch (strId)
-  {
-  }
-}
-
-window.InitExecuteScripts = function()
+window.InitUserScripts = function()
 {
 var player = GetPlayer();
 var object = player.object;

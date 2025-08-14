@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <!-- Created using Storyline 360 x64 - http://www.articulate.com  -->
-  <!-- version: 3.100.34725.0 -->
-  <title>Interactive case study: Securing endpoint and infrastructure</title>
+  <!-- version: 3.102.35072.0 -->
+  <title>Interactive case study: Securing endpoints and infrastructure</title>
   <meta http-equiv="x-ua-compatible" content="IE=edge"/>
   <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,shrink-to-fit=no,minimal-ui"/>
   <meta name="apple-mobile-web-app-capable" content="yes"/>
@@ -28,7 +28,7 @@
       captureRc: false,
       browserSize: 'optimal',
       bgColor: '#FFFFFF',
-      features: 'DropInBase,JsApiBasics,MagnifierSupport,MathExpressions,MorphTransition,MultipleQuizTracking,NativePrompts,PlayerSizeOption,TextEntryCharacterLimit',
+      features: 'DropInBase,MultipleQuizTracking,PlayerSizeOption',
       themeName: 'unified',
       preloaderColor: '#8C8C8C',
       suppressAnalytics: false,
@@ -36,8 +36,8 @@
       publishSource: 'storyline',
       aid: 'aid|4c097956-bebb-45ed-92b7-eb388b76358b',
       cid: 'c8226587-614e-4c77-b274-f16a37e6836c',
-      playerVersion: '3.100.34725.0',
-      publishTimestamp: '2025-08-01T13:55:32.5614502Z',
+      playerVersion: '3.102.35072.0',
+      publishTimestamp: '2025-08-13T14:06:50.3545580Z',
       maxIosVideoElements: 10,
       connectionSettings: { message: 'You%20are%20offline.%20Trying%20to%20reconnect...', useDarkTheme: true, mode: 'disabled' },
       hasFeature: function(feature) {
@@ -151,7 +151,7 @@
   </script>
 
   <div class="mobile-load-title-overlay" style="display: none">
-    <div class="mobile-load-title">Interactive case study: Securing endpoint and infrastructure</div>
+    <div class="mobile-load-title">Interactive case study: Securing endpoints and infrastructure</div>
   </div>
 
   <div class="mobile-chrome-warning"></div>
@@ -434,7 +434,7 @@
     function disableKeys() {
       if (DS.views && DS.views.nsStack && DS.views.nsStack.length === 1) {
         DS.views.nsStack[0].tabReachable = false
-        DS.views.nsStack[0].updateTabIndex(true, true);
+        DS.views.nsStack[0].updateTabIndex(true);
       }
 
       accStyle.innerHTML = '.acc-shadow-dom { display: none; }';

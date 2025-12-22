@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6551M6URrwX" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Customer Knowledge Management Agent in Dynamics 365</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Customer_Knowledge_Management_Agent_in_Dynamics_365_ORG">
+    <organization identifier="Customer_Knowledge_Management_Agent_in_Dynamics_365_ORG">
+      <title>Customer Knowledge Management Agent in Dynamics 365</title>
+      <item identifier="Nugget_3:_Shared_Responsibility_Model_SCO" isvisible="true" identifierref="__6551M6URrwX_RES">
+        <title>Customer Knowledge Management Agent in Dynamics 365</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6551M6URrwX_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_6IZG64OFgQE_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_6EsVytSVHlr_video_6IZG64OFgQE_18_160_1920x1080.jpg" />
+      <file href="mobile/6niGktfB159.png" />
+      <file href="story_content/video_6gQixLJXD3e_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_5gwghdZn7NT_video_6gQixLJXD3e_18_160_1920x1080.jpg" />
+      <file href="story_content/video_6quFD3a6dTW_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_5h5XlTozaIC_video_6quFD3a6dTW_18_160_1920x1080.jpg" />
+      <file href="story_content/video_5cPuhHb4n7n_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_6dQzXOYxq87_video_5cPuhHb4n7n_18_160_1920x1080.jpg" />
+      <file href="story_content/video_6btLFX6EdFD_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_6pe5efzV0T3_video_6btLFX6EdFD_18_160_1920x1080.jpg" />
+      <file href="story_content/video_6YDbAvKH4Tn_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_6S8hmRpUDeQ_video_6YDbAvKH4Tn_18_160_1920x1080.jpg" />
+      <file href="story_content/video_5yRXPzdoVTs_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_6mxxyzgTWXq_video_5yRXPzdoVTs_18_160_1920x1080.jpg" />
+      <file href="story_content/video_63p2dCJnqEx_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_6IeyvXbtOV2_video_63p2dCJnqEx_18_160_1920x1080.jpg" />
+      <file href="story_content/video_62SYqYT1EXE_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_5evVHJ8ckCS_video_62SYqYT1EXE_18_160_1920x1080.jpg" />
+      <file href="mobile/6UP9arRCXx9.png" />
+      <file href="story_content/5bUMtUPh158_44100_160_1.mp3" />
+      <file href="story_content/6VB9sxvJMFb.mp3" />
+      <file href="mobile/67VNZnkAsEn.png" />
+      <file href="story_content/video_5m7EWTLDndb_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_6UmOgQH8z6l_video_5m7EWTLDndb_18_160_1920x1080.jpg" />
+      <file href="mobile/6Ui0KPdUXqs.png" />
+      <file href="story_content/video_6aGHd9R3wo2_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_6kye70LTTry_video_6aGHd9R3wo2_18_160_1920x1080.jpg" />
+      <file href="story_content/6OJx0dMUde9_44100_160_1.mp3" />
+      <file href="story_content/60mCMRsCblF.mp3" />
+      <file href="story_content/video_6kH5mNCKpKM_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_6BkVA5ofkux_video_6kH5mNCKpKM_18_160_1920x1080.jpg" />
+      <file href="story_content/video_62sLIF4Uwro_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_6iEiNYFRB77_video_62sLIF4Uwro_18_160_1920x1080.jpg" />
+      <file href="story_content/video_6MOExPT8Bv2_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_64RH3r7YHAM_video_6MOExPT8Bv2_18_160_1920x1080.jpg" />
+      <file href="story_content/video_5lEwXnmcBnV_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_5YkCPqD1bVw_video_5lEwXnmcBnV_18_160_1920x1080.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5a4hTI1GkuP.js" />
+      <file href="html5/data/js/5aHd0sCSuQD.js" />
+      <file href="html5/data/js/5jKEI3xSM3j.js" />
+      <file href="html5/data/js/5tpdQw3mIX7.js" />
+      <file href="html5/data/js/5Uw2VAJHt0Y.js" />
+      <file href="html5/data/js/5ve60qecP8v.js" />
+      <file href="html5/data/js/5yCj4b0ftnP.js" />
+      <file href="html5/data/js/6F1amQMlQ6K.js" />
+      <file href="html5/data/js/6lBLS9s5GKA.js" />
+      <file href="html5/data/js/6lLyfzrepbV.js" />
+      <file href="html5/data/js/6N9QvSDrQLm.js" />
+      <file href="html5/data/js/6O6Pht4l1op.js" />
+      <file href="html5/data/js/6oP5Q8j1Rvd.js" />
+      <file href="html5/data/js/6PdQ9BZw8Eb.js" />
+      <file href="html5/data/js/6rfUc9sqo83.js" />
+      <file href="html5/data/js/6WVUJPJMNT8.js" />
+      <file href="html5/data/js/6Xt60k0nthx.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

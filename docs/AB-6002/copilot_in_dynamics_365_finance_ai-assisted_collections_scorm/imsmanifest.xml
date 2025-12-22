@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="Copilot_in_Dynamics_365_Finance" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Copilot in Dynamics 365 Finance (AI-assisted collections)</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Copilot_in_Dynamics_365_Finance_(AI-assisted_collections)_ORG">
+    <organization identifier="Copilot_in_Dynamics_365_Finance_(AI-assisted_collections)_ORG">
+      <title>Copilot in Dynamics 365 Finance (AI-assisted collections)</title>
+      <item identifier="Copilot_in_Dynamics_365_Finance_SCO" isvisible="true" identifierref="_Copilot_in_Dynamics_365_Finance_RES">
+        <title>Copilot in Dynamics 365 Finance (AI-assisted collections)</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="_Copilot_in_Dynamics_365_Finance_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_5sVufjM72Ay_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_67d7lkRDgKQ_video_5sVufjM72Ay_9_160_1920x1080.jpg" />
+      <file href="mobile/5agxDSklE3m.png" />
+      <file href="mobile/67VNZnkAsEn.png" />
+      <file href="story_content/video_6RVRfWErqQc_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_5oxdiKM3umt_video_6RVRfWErqQc_9_160_1920x1080.jpg" />
+      <file href="story_content/64aT5K5DA33_44100_160_1.mp3" />
+      <file href="story_content/6GZInX0WXAN_44100_160_1.mp3" />
+      <file href="mobile/6a78MB37K3u.png" />
+      <file href="mobile/5m5oG8G8pkR.png" />
+      <file href="mobile/6LryWTbEw9g.png" />
+      <file href="mobile/5tpC2l2qSOM_P_149_0_1735_2048.png" />
+      <file href="mobile/5kErioJNqhf.png" />
+      <file href="mobile/6AsKjNvlazw.png" />
+      <file href="mobile/65bZK1xmzk2_P_123_153_1793_1731.png" />
+      <file href="mobile/5oyKhiKE5SJ.png" />
+      <file href="story_content/5fpbySSRWlY_44100_160_1.mp3" />
+      <file href="story_content/63PywG7psx3_44100_160_1.mp3" />
+      <file href="story_content/61N2yA7aVJ7_44100_160_1.mp3" />
+      <file href="mobile/6BSYG9lbGdD.png" />
+      <file href="story_content/5wEvkBVNojB_44100_160_1.mp3" />
+      <file href="story_content/5xng5EZqxEH_44100_160_1.mp3" />
+      <file href="story_content/6DDaWZolBmG_44100_160_1.mp3" />
+      <file href="story_content/5lPmj8u8vCs_44100_160_1.mp3" />
+      <file href="story_content/5Y7k0XK5c2r_44100_160_1.mp3" />
+      <file href="story_content/5mgNyJJUB6P_44100_160_1.mp3" />
+      <file href="story_content/6mdSBpfWcVn_44100_160_1.mp3" />
+      <file href="story_content/6G6bVBD6E6M_44100_160_1.mp3" />
+      <file href="story_content/6qpA2C2AU3m_44100_160_1.mp3" />
+      <file href="story_content/6ffi43O8ho8_44100_160_1.mp3" />
+      <file href="story_content/5d90MzuF2AZ_44100_160_1.mp3" />
+      <file href="story_content/video_6qQ5iuAYKWK_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_62hfdjo6Jwu_video_6qQ5iuAYKWK_9_160_1920x1080.jpg" />
+      <file href="story_content/6RNj9D3k8kU_44100_160_1.mp3" />
+      <file href="story_content/video_6bM8Uo0PQKv_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_6bEU8LYaNJi_video_6bM8Uo0PQKv_9_160_1920x1080.jpg" />
+      <file href="story_content/6VVnRkDVVQO_44100_160_1.mp3" />
+      <file href="mobile/6VMZZU7lkxj.png" />
+      <file href="story_content/6SvDOszkfUy_44100_160_1.mp3" />
+      <file href="story_content/5YqXSqCLBx9.mp3" />
+      <file href="story_content/video_6GuMsxGkX8a_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_5UrxG5GDpBW_video_6GuMsxGkX8a_9_160_1920x1080.jpg" />
+      <file href="mobile/6NMcUfpukYL.png" />
+      <file href="story_content/6as6Mt5ZOzp_44100_160_1.mp3" />
+      <file href="story_content/6BdqDupDjcW.mp3" />
+      <file href="mobile/6GPfqzlW9r2.png" />
+      <file href="mobile/6n90aRy0Lhr.png" />
+      <file href="mobile/6Zny2Ca176g.png" />
+      <file href="mobile/5n5hOc9BizJ.png" />
+      <file href="mobile/6GnRTbPZ0AR.png" />
+      <file href="story_content/5vevzfqFvXb_44100_160_1.mp3" />
+      <file href="story_content/5sbl9NpIGpK.mp3" />
+      <file href="mobile/65Wbjqo8Vyx.png" />
+      <file href="story_content/5zxe5FK5fkN_44100_160_1.mp3" />
+      <file href="story_content/5g84sdFYde1.mp3" />
+      <file href="story_content/video_5r4But1etJR_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_6qNTLkKpNqA_video_5r4But1etJR_9_160_1920x1080.jpg" />
+      <file href="story_content/video_6nGsGT0ryQQ_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_5VvIXeuPhIQ_video_6nGsGT0ryQQ_9_160_1920x1080.jpg" />
+      <file href="story_content/video_5u4jNl9oynO_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_6NKuIk34BEK_video_5u4jNl9oynO_9_160_1920x1080.jpg" />
+      <file href="story_content/5pJVvwcSew0_44100_160_1.mp3" />
+      <file href="story_content/video_5lEwXnmcBnV_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_5rfdyj2l8ne_video_5lEwXnmcBnV_9_160_1920x1080.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/6XRigMUyjlK.png" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="story_content/external_files/Additional Resources - Shared Responsibility Model.pdf" />
+      <file href="mobile/txt__default_68VDrX8gKrN.png" />
+      <file href="mobile/txt__default_5z505MyXtNg.png" />
+      <file href="mobile/txt__default_5nbKqBztD4X.png" />
+      <file href="mobile/txt__default_643yYTxQjIN.png" />
+      <file href="mobile/txt__default_6mGXjXIXHKB.png" />
+      <file href="mobile/txt__default_6JwYu3rObJz.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5cRrQfy7rWa.js" />
+      <file href="html5/data/js/5pOcGL9e3Zk.js" />
+      <file href="html5/data/js/5t4Wq6jNjs6.js" />
+      <file href="html5/data/js/5Yu3esmpH5z.js" />
+      <file href="html5/data/js/65Ir268XFLH.js" />
+      <file href="html5/data/js/65jU0c3NHYk.js" />
+      <file href="html5/data/js/69kqw4Utnr3.js" />
+      <file href="html5/data/js/6CRbbwV3A61.js" />
+      <file href="html5/data/js/6gVv910JJPn.js" />
+      <file href="html5/data/js/6IHSsukOSTw.js" />
+      <file href="html5/data/js/6VHh5jMZfNP.js" />
+      <file href="html5/data/js/6ViUEEbk5Js.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

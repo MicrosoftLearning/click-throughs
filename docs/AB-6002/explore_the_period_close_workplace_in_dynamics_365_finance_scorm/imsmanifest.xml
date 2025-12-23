@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6551M6URrwX" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Explore the period close workplace in Dynamics 365 Finance</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Explore_the_period_close_workplace_in_Dynamics_365_Finance_ORG">
+    <organization identifier="Explore_the_period_close_workplace_in_Dynamics_365_Finance_ORG">
+      <title>Explore the period close workplace in Dynamics 365 Finance</title>
+      <item identifier="Nugget_3:_Shared_Responsibility_Model_SCO" isvisible="true" identifierref="__6551M6URrwX_RES">
+        <title>Explore the period close workplace in Dynamics 365 Finance</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6551M6URrwX_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_6kKdMACJCKZ_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_5lE8KOu7bo8_video_6kKdMACJCKZ_18_160_1920x1080.jpg" />
+      <file href="mobile/6GB4TVkqxi4.png" />
+      <file href="story_content/video_6aeWFwEcIva_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_6pFk7vH1iH9_video_6aeWFwEcIva_18_160_1920x1080.jpg" />
+      <file href="story_content/video_6LBzEEiPs3C_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_5odwFXocU8j_video_6LBzEEiPs3C_18_160_1920x1080.jpg" />
+      <file href="mobile/5ZjHwnQPPhZ.png" />
+      <file href="mobile/6SqgzYSEisI.png" />
+      <file href="mobile/6IVxpHQUGYy.png" />
+      <file href="mobile/68IKGgvwnTV.png" />
+      <file href="mobile/5aF6WKucUwF.png" />
+      <file href="mobile/5tKpKFZtC7n.png" />
+      <file href="mobile/6i4InsnxT8d.png" />
+      <file href="mobile/6Sml798P00u.png" />
+      <file href="mobile/5bC6G0YIIEM.png" />
+      <file href="mobile/5tDnmKAwSUc.png" />
+      <file href="mobile/6YDpj39wckH.png" />
+      <file href="story_content/6W88JMFKdYb_44100_160_1.mp3" />
+      <file href="story_content/6I6VtgOApus.mp3" />
+      <file href="story_content/video_6VCPZ1MNSd4_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_6Nln3qBcqWS_video_6VCPZ1MNSd4_18_160_1920x1080.jpg" />
+      <file href="story_content/6TdHZ5UTnBr_44100_160_1.mp3" />
+      <file href="story_content/6qePPiwrDDM.mp3" />
+      <file href="story_content/video_60Vuy2thcqZ_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_6RPvr8eAkbl_video_60Vuy2thcqZ_18_160_1920x1080.jpg" />
+      <file href="story_content/6qQU4N0ziuE_44100_160_1.mp3" />
+      <file href="story_content/5xoaVOCsF4p.mp3" />
+      <file href="story_content/video_63xxgrloccR_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_5oCq8IvDrcM_video_63xxgrloccR_18_160_1920x1080.jpg" />
+      <file href="story_content/694Zp0ofWuY_44100_160_1.mp3" />
+      <file href="story_content/6ZsRxM4AoPv.mp3" />
+      <file href="story_content/video_64e4Ion7FJ0_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_5bUbN0lQvFD_video_64e4Ion7FJ0_18_160_1920x1080.jpg" />
+      <file href="story_content/6bku16mlNPq_44100_160_1.mp3" />
+      <file href="story_content/6Ijt9CaaiQj.mp3" />
+      <file href="story_content/video_5WZVWEcoDvt_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_5qlePZKjcAu_video_5WZVWEcoDvt_18_160_1920x1080.jpg" />
+      <file href="story_content/66tyEWkYRPP_44100_160_1.mp3" />
+      <file href="story_content/6COOLKbxDb3.mp3" />
+      <file href="story_content/video_6QL2BqiCkxL_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_6DEsnqJZUoq_video_6QL2BqiCkxL_18_160_1920x1080.jpg" />
+      <file href="story_content/6kSH0AwcYMp_44100_160_1.mp3" />
+      <file href="story_content/62ssks1zzkc.mp3" />
+      <file href="story_content/video_6fyilVPtUoV_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_5t2jdAMRR70_video_6fyilVPtUoV_18_160_1920x1080.jpg" />
+      <file href="story_content/video_5c0OS6tZQCT_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_5vhTC0Pl9Q4_video_5c0OS6tZQCT_18_160_1920x1080.jpg" />
+      <file href="story_content/5suHN7TkRwu_44100_160_1.mp3" />
+      <file href="story_content/video_5d79iAmFeWi_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_5lvivYNM1Xo_video_5d79iAmFeWi_18_160_1920x1080.jpg" />
+      <file href="mobile/6Ui0KPdUXqs.png" />
+      <file href="story_content/video_5lEwXnmcBnV_18_160_1920x1080.mp4" />
+      <file href="mobile/poster_6XBvrctNrUP_video_5lEwXnmcBnV_18_160_1920x1080.jpg" />
+      <file href="mobile/67VNZnkAsEn.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aICEkUZ44u.js" />
+      <file href="html5/data/js/5bY7I3mcyIu.js" />
+      <file href="html5/data/js/5fejYYJZrOt.js" />
+      <file href="html5/data/js/5hlMtxlGuKc.js" />
+      <file href="html5/data/js/5jKEI3xSM3j.js" />
+      <file href="html5/data/js/5sb7zSFf4Sv.js" />
+      <file href="html5/data/js/5Uw2VAJHt0Y.js" />
+      <file href="html5/data/js/5XudUHd15Mo.js" />
+      <file href="html5/data/js/5xX2m77eBta.js" />
+      <file href="html5/data/js/61Lz5w3il95.js" />
+      <file href="html5/data/js/62rJtPSpggs.js" />
+      <file href="html5/data/js/6biIq09YWCB.js" />
+      <file href="html5/data/js/6C65TpmVlPj.js" />
+      <file href="html5/data/js/6DjPPhvqYaO.js" />
+      <file href="html5/data/js/6DSKLlJf0q2.js" />
+      <file href="html5/data/js/6FkTiE9I9kL.js" />
+      <file href="html5/data/js/6hXRUcAcxDX.js" />
+      <file href="html5/data/js/6pnZKRrTPyB.js" />
+      <file href="html5/data/js/6RzVFQNrE6C.js" />
+      <file href="html5/data/js/6Zh8x5kyksu.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

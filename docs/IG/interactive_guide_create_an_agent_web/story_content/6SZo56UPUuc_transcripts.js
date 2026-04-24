@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":736,"text":"In this interactive guide, you reviewed the Threat Intelligence Agent "},{"start":4581,"text":"and the methods to create an agent in the standalone experience."},{"start":9440,"text":"As part of the Datum Corporation security team, "},{"start":12224,"text":"you explored the Threat Intelligence Briefing Agent "},{"start":14624,"text":"and the methods for creating agents."},{"start":17053,"text":"You also created an agent, configured settings, "},{"start":20406,"text":"published the agent, and tested its results."},{"start":23760,"text":"You’re now familiar with the steps to create "},{"start":25954,"text":"and use agents in Security Copilot."},{"start":28512,"text":"To go deeper, visit the Microsoft Security Copilot "},{"start":31393,"text":"How-to guides on Microsoft Learn."}]}]};
+    window.globalLoadJsAsset('story_content/6SZo56UPUuc_transcripts.js', JSON.stringify(data));
+})();

@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":960,"text":"In this interactive guide, "},{"start":2420,"text":"you created a session in Microsoft Security Copilot "},{"start":5593,"text":"and explored prompts and promptbooks "},{"start":7808,"text":"to analyze security activity and support incident response."},{"start":14681,"text":"As a Copilot contributor, "},{"start":16495,"text":"you learned how to explore prompts and promptbooks,"},{"start":19448,"text":"run prompts and manage sources"},{"start":21485,"text":"and gather insights and support security investigations."},{"start":25505,"text":"You are now familiar with how Security Copilot "},{"start":28210,"text":"helps you investigate and respond to security incidents."},{"start":31495,"text":"To go deeper, visit the Microsoft Security Copilot "},{"start":34692,"text":"How-to guides on Microsoft Learn.​"}]}]};
+    window.globalLoadJsAsset('story_content/5hST31e5A1j_transcripts.js', JSON.stringify(data));
+})();

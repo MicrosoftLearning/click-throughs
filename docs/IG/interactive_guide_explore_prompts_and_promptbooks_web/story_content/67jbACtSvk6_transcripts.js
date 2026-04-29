@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1296,"text":"Your interactions with Microsoft Security Copilot help generate insights"},{"start":5573,"text":"that support threat investigation, "},{"start":7700,"text":"troubleshooting and remediation, and security posture management."},{"start":13952,"text":"Security Copilot integrates with Microsoft Security "},{"start":17472,"text":"and non-Microsoft security solutions your organization uses "},{"start":21696,"text":"through plugins that can be enabled or disabled."},{"start":24808,"text":"While the Copilot Contributor role and enabled plugins allow integration with security solutions,"},{"start":30544,"text":"they do not grant you additional permissions to view security data."},{"start":33920,"text":"Your Microsoft Entra and Azure Role Based Access Control roles "},{"start":38456,"text":"determine what security data you can access in Copilot."}]}]};
+    window.globalLoadJsAsset('story_content/67jbACtSvk6_transcripts.js', JSON.stringify(data));
+})();

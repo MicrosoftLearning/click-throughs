@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1952,"text":"Northwind Traders uses Microsoft Security Copilot "},{"start":5629,"text":"to assist analysts with investigating identity-related alerts in Microsoft Entra."},{"start":12104,"text":"During investigations, analysts often review failed login attempts "},{"start":16560,"text":"and authentication activity to determine potential risks."},{"start":21308,"text":"As a security operations analyst at Northwind Traders, "},{"start":24896,"text":"you repeatedly run the same prompts in Security Copilot to review "},{"start":28484,"text":"failed login attempts and authentication activity."},{"start":33248,"text":"To streamline this process, you decide to use "},{"start":35936,"text":"prompts from an earlier session to create a custom promptbook,"},{"start":39953,"text":"allowing you to reuse the workflow in future investigations."},{"start":44496,"text":"Select NEXT for an overview of prompts and promptbooks."}]}]};
+    window.globalLoadJsAsset('story_content/6fosB1Tke1e_transcripts.js', JSON.stringify(data));
+})();

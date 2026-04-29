@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":768,"text":"In this interactive guide, you created a custom promptbook in Security Copilot "},{"start":5288,"text":"by reusing prompts from a previous session and configuring it to support "},{"start":9600,"text":"reusable investigation workflows."},{"start":13096,"text":"You've now completed the custom promptbook exercise for Northwind Traders."},{"start":17800,"text":"As a security operations analyst, "},{"start":20108,"text":"you learned how to create, configure, "},{"start":22488,"text":"and run a promptbook to automate investigation steps in Security Copilot."},{"start":27084,"text":"You now understand how to reuse prompts "},{"start":29504,"text":"to streamline security investigations."},{"start":32092,"text":"To continue learning about Security Copilot, "},{"start":34580,"text":"visit the Microsoft Security Copilot How-to guides on Microsoft Learn. "}]}]};
+    window.globalLoadJsAsset('story_content/5si54frGqm4_transcripts.js', JSON.stringify(data));
+})();

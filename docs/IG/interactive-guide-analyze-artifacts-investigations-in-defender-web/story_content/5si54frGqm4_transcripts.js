@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1408,"text":"In this interactive guide,"},{"start":3076,"text":"you analyzed alert-level artifacts using Security Copilot "},{"start":6737,"text":"in Microsoft Defender XDR."},{"start":12544,"text":"As a security analyst, "},{"start":14223,"text":"you learned how to: analyze alerts to identify key artifacts "},{"start":17744,"text":"and suspicious activity examine device"},{"start":20324,"text":"and identity context use Security Copilot to support investigation"},{"start":25112,"text":"You’re now familiar with how to pivot from alerts to advanced investigation"},{"start":29240,"text":"and strengthen your organization’s security posture."},{"start":32580,"text":"To go deeper, visit the Microsoft Security Copilot "},{"start":35872,"text":"How-to guides on Microsoft Learn.​"}]}]};
+    window.globalLoadJsAsset('story_content/5si54frGqm4_transcripts.js', JSON.stringify(data));
+})();

@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":2376,"text":"As a security analyst at Litware Inc.,"},{"start":4885,"text":"you’ve investigated a high-severity security incident "},{"start":8012,"text":"in Microsoft Defender XDR"},{"start":10532,"text":"and gained an understanding of how the attack progressed across your environment."},{"start":17568,"text":"Now, continue your investigation by analyzing alerts"},{"start":21145,"text":"to identify key artifacts and suspicious activity."},{"start":28384,"text":"Use Security Copilot to examine alert details,"},{"start":31733,"text":"device activity, and user context. "},{"start":34672,"text":"Copilot helps you identify risks "},{"start":36825,"text":"and recommended actions to support your investigation."}]}]};
+    window.globalLoadJsAsset('story_content/6fosB1Tke1e_transcripts.js', JSON.stringify(data));
+})();

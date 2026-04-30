@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":768,"text":"In this interactive guide, you investigated sensitive activity"},{"start":4420,"text":"using Security Copilot in Activity explorer.​"},{"start":8588,"text":"As a security analyst at Woodgrove Bank,"},{"start":11231,"text":"you learned how to review activity signals, apply filters,"},{"start":15308,"text":"and use Security Copilot to summarize activity data"},{"start":18624,"text":"and generate investigation filters during an investigation.​"},{"start":22648,"text":"You’re now familiar with investigating sensitive activity"},{"start":25656,"text":"using Security Copilot in Activity explorer.​"},{"start":28812,"text":"To go deeper, visit the Microsoft Security Copilot"},{"start":31984,"text":"How-to guides on Microsoft Learn.​"}]}]};
+    window.globalLoadJsAsset('story_content/5e0TX0ArVB5_transcripts.js', JSON.stringify(data));
+})();

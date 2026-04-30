@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1380,"text":"In this interactive guide, "},{"start":2892,"text":"you investigated a DLP alert for Tasmanian Traders."},{"start":8820,"text":"As a compliance analyst at Tasmanian Traders, "},{"start":11964,"text":"you learned how to investigate a DLP alert using Security Copilot."},{"start":16968,"text":"You reviewed the alert summary "},{"start":18784,"text":"and Identified sensitive content types and counts."},{"start":21952,"text":"You also analyzed activity details "},{"start":24384,"text":"and enforcement actions, "},{"start":25704,"text":"and expanded the investigation to related user activity "},{"start":29572,"text":"and risk signals."},{"start":31152,"text":"You’re now familiar with investigating DLP alerts"},{"start":34353,"text":"using Security Copilot in Microsoft Purview."},{"start":37792,"text":"To go deeper, visit the Microsoft Security Copilot How-to guides on Microsoft Learn."}]}]};
+    window.globalLoadJsAsset('story_content/5si54frGqm4_transcripts.js', JSON.stringify(data));
+})();

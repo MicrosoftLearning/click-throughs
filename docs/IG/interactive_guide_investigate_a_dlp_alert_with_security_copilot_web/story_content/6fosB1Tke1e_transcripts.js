@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1368,"text":"Tasmanian Traders manages sensitive financial records "},{"start":4876,"text":"and regulatory documents in Microsoft 365."},{"start":11330,"text":"As a compliance analyst, "},{"start":12870,"text":"your role includes reviewing data protection alerts across the environment."},{"start":20317,"text":"A DLP alert"},{"start":21909,"text":"has been triggered after a file"},{"start":23531,"text":"containing transaction records and confidential financial data"},{"start":27226,"text":"was accessed and modified."},{"start":32038,"text":"You’ve received an alert related to this activity and need to review its details."}]}]};
+    window.globalLoadJsAsset('story_content/6fosB1Tke1e_transcripts.js', JSON.stringify(data));
+})();

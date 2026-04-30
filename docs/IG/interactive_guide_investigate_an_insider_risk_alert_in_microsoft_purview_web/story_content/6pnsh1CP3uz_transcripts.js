@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":960,"text":"CloudNova Systems uses Microsoft ​"},{"start":3904,"text":"Purview to review and investigate insider risk alerts"},{"start":7273,"text":"involving sensitive data across its systems.​ "},{"start":12480,"text":"In a recent activity review, an Insider Risk "},{"start":15488,"text":"Management alert triggered suspicious activity that involved "},{"start":18912,"text":"the copying of sensitive data to a USB device. ​"},{"start":24456,"text":"As a security analyst at CloudNova Systems, "},{"start":27564,"text":"​you need to investigate the alert to understand the user’s activity "},{"start":31240,"text":"and determine whether sensitive data was shared outside the organization.​"},{"start":36704,"text":"To support this investigation, "},{"start":38737,"text":"you can use Security Copilot to summarize activity, "},{"start":42112,"text":"identify patterns, and assess potential risks. "},{"start":45628,"text":"This helps you focus on the most critical actions."}]}]};
+    window.globalLoadJsAsset('story_content/6pnsh1CP3uz_transcripts.js', JSON.stringify(data));
+})();

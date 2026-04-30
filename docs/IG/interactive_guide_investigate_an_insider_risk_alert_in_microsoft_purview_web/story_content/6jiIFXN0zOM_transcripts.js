@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":668,"text":"In this interactive guide, "},{"start":2304,"text":"you investigated insider risk alerts in Microsoft Purview "},{"start":5605,"text":"using Security Copilot. "},{"start":8660,"text":"As a security analyst, you learned how to:"},{"start":11680,"text":"Summarize and investigate insider risk alerts using Security Copilot."},{"start":16384,"text":"Identify key risk patterns and connected user activity."},{"start":19788,"text":"Confirm data exfiltration and understand its impact."},{"start":23736,"text":"You’re now familiar with how to investigate insider risk alerts "},{"start":27200,"text":"and determine appropriate next steps."},{"start":29952,"text":"To continue learning about Security Copilot, "},{"start":32557,"text":"visit the Microsoft Security Copilot "},{"start":34892,"text":"How-to guides on Microsoft Learn.​"}]}]};
+    window.globalLoadJsAsset('story_content/6jiIFXN0zOM_transcripts.js', JSON.stringify(data));
+})();

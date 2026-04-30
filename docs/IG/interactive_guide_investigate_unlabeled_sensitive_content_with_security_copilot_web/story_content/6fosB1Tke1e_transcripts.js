@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":3179,"text":"Blue Yonder Airlines is preparing to migrate its legacy communication"},{"start":7432,"text":"and document repositories to Microsoft 365."},{"start":14228,"text":"As a Risk and Compliance manager at Blue Yonder,"},{"start":17096,"text":"your team has run an eDiscovery Content Search"},{"start":19687,"text":"to identify documents that do not have sensitivity labels applied."},{"start":26792,"text":"The search reveals thousands of Word and PowerPoint documents without labels."},{"start":33872,"text":"To assess potential compliance risks before migration,"},{"start":37244,"text":"you must analyze the search results"},{"start":39201,"text":"to understand the type and volume of sensitive information in the unlabeled content."},{"start":47396,"text":"Security Copilot can help summarize these results"},{"start":50353,"text":"and help identify potential classification gaps."}]}]};
+    window.globalLoadJsAsset('story_content/6fosB1Tke1e_transcripts.js', JSON.stringify(data));
+})();

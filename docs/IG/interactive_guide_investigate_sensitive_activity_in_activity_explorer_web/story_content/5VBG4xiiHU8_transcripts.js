@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1952,"text":"Woodgrove Bank uses Microsoft Purview \r\nto review activity signals"},{"start":6341,"text":"related to sensitive information across services "},{"start":9248,"text":"such as SharePoint, OneDrive, and Exchange.​"},{"start":13492,"text":"Recently, a data loss prevention policy identified activity  "},{"start":17440,"text":"that might involve sensitive content.​"},{"start":20396,"text":"As a security analyst at Woodgrove Bank,"},{"start":23008,"text":"you need to review the activity signals in Activity explorer "},{"start":26695,"text":"to identify potential policy matches \r\nor other high-risk activity.​"},{"start":31569,"text":"To support this investigation, you can use \r\nSecurity Copilot to analyze the activity data"},{"start":37270,"text":"and summarize patterns in activity signals."},{"start":40384,"text":"This helps you focus on events that might require closer review.​"}]}]};
+    window.globalLoadJsAsset('story_content/5VBG4xiiHU8_transcripts.js', JSON.stringify(data));
+})();

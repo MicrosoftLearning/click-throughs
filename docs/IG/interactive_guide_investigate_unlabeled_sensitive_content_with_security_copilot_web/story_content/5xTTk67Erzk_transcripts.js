@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1336,"text":"In this interactive guide,"},{"start":2996,"text":"you investigated unlabeled content using Security Copilot in eDiscovery."},{"start":10092,"text":"As a Risk and Compliance manager at Blue Yonder Airlines,"},{"start":13716,"text":"you learned how to review search criteria"},{"start":15968,"text":"and analyze unlabeled documents in Microsoft Purview eDiscovery."},{"start":21323,"text":"You used Security Copilot to summarize search results,"},{"start":25048,"text":"identify sensitive information types,"},{"start":27400,"text":"and understand where content is distributed across workloads."},{"start":31459,"text":"You’re now familiar with how to investigate unlabeled content"},{"start":34624,"text":"and review potential classification gaps"},{"start":37144,"text":"using Security Copilot in eDiscovery."},{"start":40588,"text":"To go deeper, visit the Microsoft Security Copilot"},{"start":43733,"text":"How-to guides on Microsoft Learn."}]}]};
+    window.globalLoadJsAsset('story_content/5xTTk67Erzk_transcripts.js', JSON.stringify(data));
+})();

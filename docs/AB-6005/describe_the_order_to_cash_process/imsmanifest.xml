@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6eEmAUYzOow" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Describe the order-to-cash process</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Describe_the_order-to-cash_process_ORG">
+    <organization identifier="Describe_the_order-to-cash_process_ORG">
+      <title>Describe the order-to-cash process</title>
+      <item identifier="Task_1:_Explore_Copilot_Product_Insights_in_Dynamics_365_Supply_Chain_Management_SCO" isvisible="true" identifierref="__6eEmAUYzOow_RES">
+        <title>Describe the order-to-cash process</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6eEmAUYzOow_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_6PAPjrcmDkz_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_6EsVytSVHlr_video_6PAPjrcmDkz_9_160_1920x1080.jpg" />
+      <file href="mobile/6C84xH3pAqD.png" />
+      <file href="mobile/67VNZnkAsEn.png" />
+      <file href="story_content/video_6gJMHu6zptu_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_5s5N2wDK3xl_video_6gJMHu6zptu_9_160_1920x1080.jpg" />
+      <file href="story_content/6RItSNYminN_44100_160_1.mp3" />
+      <file href="story_content/6gTgWxQbIxT.mp3" />
+      <file href="story_content/67jGgT8lFZx.mp3" />
+      <file href="mobile/6KfKKuXaNva.png" />
+      <file href="mobile/6Uw8Fygw5tL.png" />
+      <file href="mobile/637CAg6JtjR.png" />
+      <file href="mobile/5lsn52yKXEu.png" />
+      <file href="mobile/5mGwXFU6q5i.png" />
+      <file href="mobile/6BUZLMOorWf.png" />
+      <file href="mobile/6E9HZuTW6Rt.png" />
+      <file href="mobile/5zyfq9CX5sU.png" />
+      <file href="mobile/64wOCa9Vo7J.png" />
+      <file href="mobile/6pN9Ga9m7rW.png" />
+      <file href="mobile/6jDZlCXrxtX.png" />
+      <file href="mobile/6R93ZOBeNlc.png" />
+      <file href="mobile/5c4vLDHJaIr.png" />
+      <file href="mobile/604byVVn8di.png" />
+      <file href="story_content/6IkE4Nl5J6v_44100_160_1.mp3" />
+      <file href="mobile/5tivG2KhUFq.png" />
+      <file href="story_content/6fBDIZrT52h_44100_160_1.mp3" />
+      <file href="story_content/5zNwSgOBofs.mp3" />
+      <file href="mobile/5tivG2KhUFq_X.png" />
+      <file href="story_content/5oUlrkMMhBe_44100_160_1.mp3" />
+      <file href="story_content/5aa9nNcZX0g.mp3" />
+      <file href="story_content/6CF0p0uokUO_44100_160_1.mp3" />
+      <file href="story_content/6lEot1QSOiF.mp3" />
+      <file href="story_content/5w7K7kNnYSv_44100_160_1.mp3" />
+      <file href="story_content/6hw7VtzCFfu.mp3" />
+      <file href="story_content/61ItgyyOQ5l_44100_160_1.mp3" />
+      <file href="story_content/6dGYOO2K0Kc.mp3" />
+      <file href="story_content/video_5YqysHjzR6X_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_5nPMlZctcAS_video_5YqysHjzR6X_9_160_1920x1080.jpg" />
+      <file href="story_content/video_6Ywibah0PaO_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_6dgCpv0GPac_video_6Ywibah0PaO_9_160_1920x1080.jpg" />
+      <file href="story_content/video_6eLBnCW55Hz_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_6jAEkgsyBLs_video_6eLBnCW55Hz_9_160_1920x1080.jpg" />
+      <file href="story_content/video_6DaF6Drn3Wj_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_6nIvg4c22Ik_video_6DaF6Drn3Wj_9_160_1920x1080.jpg" />
+      <file href="story_content/video_64EtlkL8c3U_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_5cjANZmfQGB_video_64EtlkL8c3U_9_160_1920x1080.jpg" />
+      <file href="story_content/video_69fwRrt284O_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_62IflMel9i2_video_69fwRrt284O_9_160_1920x1080.jpg" />
+      <file href="story_content/video_6LCXdfD89Ft_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_652NlSmpvE1_video_6LCXdfD89Ft_9_160_1920x1080.jpg" />
+      <file href="story_content/video_627ueQYZUeB_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_5z14xMjSlGY_video_627ueQYZUeB_9_160_1920x1080.jpg" />
+      <file href="story_content/video_5lEwXnmcBnV_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_5YkCPqD1bVw_video_5lEwXnmcBnV_9_160_1920x1080.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5chZ0irAhB3.js" />
+      <file href="html5/data/js/5gnTtkxQQMg.js" />
+      <file href="html5/data/js/5jKEI3xSM3j.js" />
+      <file href="html5/data/js/5Uw2VAJHt0Y.js" />
+      <file href="html5/data/js/5wIowA6qG6r.js" />
+      <file href="html5/data/js/60hgYGSEjwV.js" />
+      <file href="html5/data/js/62v35Bjl7VO.js" />
+      <file href="html5/data/js/6ad0dt4zsOn.js" />
+      <file href="html5/data/js/6FQ5luDXVpa.js" />
+      <file href="html5/data/js/6Iz2b8XuwzX.js" />
+      <file href="html5/data/js/6lBLS9s5GKA.js" />
+      <file href="html5/data/js/6PEipR3p31w.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

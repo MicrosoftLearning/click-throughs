@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6Oj6fTOE2Ki" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Qualify leads with AI in Dynamics 365 Sales</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Qualify_leads_with_AI_in_Dynamics_365_Sales_ORG">
+    <organization identifier="Qualify_leads_with_AI_in_Dynamics_365_Sales_ORG">
+      <title>Qualify leads with AI in Dynamics 365 Sales</title>
+      <item identifier="Qualify_leads_with_AI_in_Dynamics_365_Sales_SCO" isvisible="true" identifierref="__6Oj6fTOE2Ki_RES">
+        <title>Qualify leads with AI in Dynamics 365 Sales</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6Oj6fTOE2Ki_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_6SfwPI7gYB1_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_6EsVytSVHlr_video_6SfwPI7gYB1_9_160_1920x1080.jpg" />
+      <file href="mobile/6C84xH3pAqD.png" />
+      <file href="mobile/67VNZnkAsEn.png" />
+      <file href="story_content/video_5a6BLMT4TDa_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_5gwghdZn7NT_video_5a6BLMT4TDa_9_160_1920x1080.jpg" />
+      <file href="story_content/6RItSNYminN_44100_160_1.mp3" />
+      <file href="story_content/6gTgWxQbIxT.mp3" />
+      <file href="story_content/video_6OoDJ6flAqr_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_6MV7ujCSiJe_video_6OoDJ6flAqr_9_160_1920x1080.jpg" />
+      <file href="story_content/6gIXJgDd6qa_44100_160_1.mp3" />
+      <file href="story_content/6JnZysm2Qry.mp3" />
+      <file href="mobile/6DJF5a32vnB.png" />
+      <file href="mobile/5clQ4CVeJvT.png" />
+      <file href="mobile/6akuQJ4vuoP.png" />
+      <file href="story_content/5hmjB3Ts8so_44100_160_1.mp3" />
+      <file href="story_content/5wU0fipJHba.mp3" />
+      <file href="mobile/6XhqAq8jYaw.png" />
+      <file href="story_content/6BKSifpXbuy_44100_160_1.mp3" />
+      <file href="story_content/6PCMLpiDIyL.mp3" />
+      <file href="story_content/5olrq4O1pdJ_44100_160_1.mp3" />
+      <file href="story_content/6Wk8qRQDPIj.mp3" />
+      <file href="story_content/5hGXXM9PEIX_44100_160_1.mp3" />
+      <file href="story_content/62bPEumsuGQ.mp3" />
+      <file href="story_content/video_6jG5Y5UbsMD_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_69uUijg1Tyx_video_6jG5Y5UbsMD_9_160_1920x1080.jpg" />
+      <file href="story_content/video_6fcfESvc9wk_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_6q73JcKWA0i_video_6fcfESvc9wk_9_160_1920x1080.jpg" />
+      <file href="mobile/5eJXHRxd3GS.png" />
+      <file href="mobile/5Yt7XUMsPdH.png" />
+      <file href="mobile/60e3zN0QpGg_RFFFFFF.png" />
+      <file href="mobile/60e3zN0QpGg.png" />
+      <file href="mobile/6LFNM7bOMo8.png" />
+      <file href="mobile/6BRKXsNKKdS.png" />
+      <file href="mobile/6Eb2Gyr5Fjg.png" />
+      <file href="mobile/5n39XVbycNQ.png" />
+      <file href="mobile/6Irk84JhWUg.png" />
+      <file href="mobile/6dKsUieJeVz.png" />
+      <file href="mobile/6Zk8a9HF2d6.png" />
+      <file href="story_content/5hKovfpIjTi_44100_160_1.mp3" />
+      <file href="story_content/6iv02D63cbC.mp3" />
+      <file href="story_content/6ZUUjx18QB9.mp3" />
+      <file href="story_content/video_62AsNFeOyKZ_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_6D36f6S6U6i_video_62AsNFeOyKZ_9_160_1920x1080.jpg" />
+      <file href="story_content/690pTqYv9UU_44100_160_1.mp3" />
+      <file href="story_content/5tn763KHuW9.mp3" />
+      <file href="story_content/video_5gacpSv59CB_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_6IdQOuRrf3G_video_5gacpSv59CB_9_160_1920x1080.jpg" />
+      <file href="mobile/5Yt7XUMsPdH_RFFFFFF.png" />
+      <file href="story_content/5xAMtm9NppF_44100_160_1.mp3" />
+      <file href="story_content/6SGz49hSrjq.mp3" />
+      <file href="story_content/video_6I0awyMcInj_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_6UGSDMt4D1l_video_6I0awyMcInj_9_160_1920x1080.jpg" />
+      <file href="story_content/6WwpoMN8jnd_44100_160_1.mp3" />
+      <file href="story_content/634AygJFM4Y.mp3" />
+      <file href="story_content/video_6SIMoVzaFiw_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_62MbY7YVjUK_video_6SIMoVzaFiw_9_160_1920x1080.jpg" />
+      <file href="story_content/5m1HFQ83xOS_44100_160_1.mp3" />
+      <file href="story_content/video_5nGtQbtb4Lx_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_5tcPGrjHkIX_video_5nGtQbtb4Lx_9_160_1920x1080.jpg" />
+      <file href="story_content/6gHokhliPJv_44100_160_1.mp3" />
+      <file href="story_content/6OAKvIr9MRB.mp3" />
+      <file href="story_content/video_6pg2PgSImQ8_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_6jdYk2em8BM_video_6pg2PgSImQ8_9_160_1920x1080.jpg" />
+      <file href="story_content/video_5lEwXnmcBnV_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_5YkCPqD1bVw_video_5lEwXnmcBnV_9_160_1920x1080.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aYdLc2bqak.js" />
+      <file href="html5/data/js/5d3HQ0FaeiA.js" />
+      <file href="html5/data/js/5jKEI3xSM3j.js" />
+      <file href="html5/data/js/5Uw2VAJHt0Y.js" />
+      <file href="html5/data/js/5x7bCufU1qk.js" />
+      <file href="html5/data/js/62v35Bjl7VO.js" />
+      <file href="html5/data/js/6duQoYgpxi9.js" />
+      <file href="html5/data/js/6eAanXtk6h0.js" />
+      <file href="html5/data/js/6EGKCbbpyEt.js" />
+      <file href="html5/data/js/6I0AC8KuA7a.js" />
+      <file href="html5/data/js/6Iz2b8XuwzX.js" />
+      <file href="html5/data/js/6lBLS9s5GKA.js" />
+      <file href="html5/data/js/6lLyfzrepbV.js" />
+      <file href="html5/data/js/6MZiCTad7K6.js" />
+      <file href="html5/data/js/6Ngcayg1JlA.js" />
+      <file href="html5/data/js/6qymV0qBLZt.js" />
+      <file href="html5/data/js/6Se3WkfZF1s.js" />
+      <file href="html5/data/js/6T2UeXWrrXU.js" />
+      <file href="html5/data/js/6Vebppt9xZi.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

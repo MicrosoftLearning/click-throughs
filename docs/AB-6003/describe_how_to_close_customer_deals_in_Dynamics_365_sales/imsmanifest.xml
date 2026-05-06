@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_67X4zy56DuL" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Describe how to close customer deals in Dynamics 365 Sales</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Describe_how_to_close_customer_deals_in_Dynamics_365_Sales_ORG">
+    <organization identifier="Describe_how_to_close_customer_deals_in_Dynamics_365_Sales_ORG">
+      <title>Describe how to close customer deals in Dynamics 365 Sales</title>
+      <item identifier="Describe_how_to_close_customer_deals_in_Dynamics_365_Sales_SCO" isvisible="true" identifierref="__67X4zy56DuL_RES">
+        <title>Describe how to close customer deals in Dynamics 365 Sales</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__67X4zy56DuL_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_6VgMhr7zKQy_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_6HeC1vKzBAR_video_6VgMhr7zKQy_9_160_1920x1080.jpg" />
+      <file href="mobile/6M7sXk1n3Fw.png" />
+      <file href="story_content/video_6ZgrfLFwn3C_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_5aAWN64HACT_video_6ZgrfLFwn3C_9_160_1920x1080.jpg" />
+      <file href="mobile/6qmeFYvQucj.png" />
+      <file href="mobile/5x5WKXn914r.png" />
+      <file href="mobile/6Sm1s4muZAN.png" />
+      <file href="mobile/5r8g6ctA0i9.png" />
+      <file href="mobile/5qVrrSMgoTa.png" />
+      <file href="mobile/5vcfaZo2ls8.png" />
+      <file href="story_content/60zPky1ww0Y_44100_160_0.mp3" />
+      <file href="story_content/6iDEVZenyje.mp3" />
+      <file href="mobile/67VNZnkAsEn.png" />
+      <file href="story_content/6LT6FW0UMym_44100_160_0.mp3" />
+      <file href="mobile/5n5v2JMQlmq.png" />
+      <file href="story_content/6Qq5LsqhS1X_44100_160_0.mp3" />
+      <file href="story_content/5aWULRZNod9.mp3" />
+      <file href="story_content/5VMpNYMXet6_44100_160_0.mp3" />
+      <file href="story_content/5lTdkVb1IFZ_44100_160_0.mp3" />
+      <file href="story_content/video_5o3AwGee1t8_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_5j3R74urTdP_video_5o3AwGee1t8_9_160_1920x1080.jpg" />
+      <file href="story_content/video_5rhfPhwqD96_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_6DoRpD9OYEx_video_5rhfPhwqD96_9_160_1920x1080.jpg" />
+      <file href="story_content/6ieowasEB0b_44100_160_0.mp3" />
+      <file href="mobile/6CeWnL7X0Ec.png" />
+      <file href="mobile/5zqtaxaXSoX.png" />
+      <file href="mobile/5fuPeDtRhXJ.png" />
+      <file href="mobile/6RvASxY1u8R.png" />
+      <file href="mobile/5lCPeXs0KZ2.png" />
+      <file href="mobile/6PUmmwLKIMS.png" />
+      <file href="mobile/6gUYpgv10un.png" />
+      <file href="mobile/5w9YYtfJ0F3.png" />
+      <file href="mobile/68TDuj1pdYV.png" />
+      <file href="mobile/6IPtnabEAis.png" />
+      <file href="mobile/5UlBByGupQE.png" />
+      <file href="mobile/6XBnbwF1kDn.png" />
+      <file href="mobile/5cU9jGhCQKP.png" />
+      <file href="mobile/5xrbuf8mD3z.png" />
+      <file href="mobile/61SKgz6BBau.png" />
+      <file href="story_content/5mUbWkEEcC5_44100_160_0.mp3" />
+      <file href="story_content/video_5bDTsSvqXkO_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_6HeO8yWFwBv_video_5bDTsSvqXkO_9_160_1920x1080.jpg" />
+      <file href="mobile/poster_5fPV0ZlUiy2_video_5rhfPhwqD96_9_160_1920x1080.jpg" />
+      <file href="story_content/5ttjMF7Lmwk_44100_160_0.mp3" />
+      <file href="mobile/5bKoFuoNKAX.png" />
+      <file href="story_content/video_6c8NtFmEFsf_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_5mKvlyV9Z48_video_6c8NtFmEFsf_9_160_1920x1080.jpg" />
+      <file href="mobile/poster_5kOu6fSgOvr_video_5rhfPhwqD96_9_160_1920x1080.jpg" />
+      <file href="story_content/5qPNh73LZ9u_44100_160_0.mp3" />
+      <file href="story_content/5jk5PVfje7i.mp3" />
+      <file href="story_content/video_5fnuLmEWnxO_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_5vaV2gFgPDe_video_5fnuLmEWnxO_9_160_1920x1080.jpg" />
+      <file href="mobile/poster_5gXB56QcoPo_video_5rhfPhwqD96_9_160_1920x1080.jpg" />
+      <file href="story_content/5p5Y933J8Vn_44100_160_0.mp3" />
+      <file href="story_content/6Uv7K1ckr7X.mp3" />
+      <file href="story_content/video_6XC4x6UTXc6_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_5p9CQFUEbu9_video_6XC4x6UTXc6_9_160_1920x1080.jpg" />
+      <file href="mobile/poster_6kRgwiU2HVN_video_5rhfPhwqD96_9_160_1920x1080.jpg" />
+      <file href="story_content/6nKbJASMeCy_44100_160_0.mp3" />
+      <file href="story_content/6Jpj2mIjkb4.mp3" />
+      <file href="story_content/video_6OzllI2FmpB_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_6c9nnQcxLcW_video_6OzllI2FmpB_9_160_1920x1080.jpg" />
+      <file href="mobile/poster_6cc4WSKXi7t_video_5rhfPhwqD96_9_160_1920x1080.jpg" />
+      <file href="story_content/6L5oEaRockm_44100_160_0.mp3" />
+      <file href="story_content/66mGOnoxPbW.mp3" />
+      <file href="story_content/video_5fQaGjmii9u_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_5gSXcbukR1h_video_5fQaGjmii9u_9_160_1920x1080.jpg" />
+      <file href="mobile/poster_6VYJgwB9WCN_video_5rhfPhwqD96_9_160_1920x1080.jpg" />
+      <file href="story_content/6AEJHyrwHfe_44100_160_0.mp3" />
+      <file href="story_content/6E8Pse1zix7.mp3" />
+      <file href="story_content/video_5ZucVAEbZz2_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_5W85eBDjzn0_video_5ZucVAEbZz2_9_160_1920x1080.jpg" />
+      <file href="story_content/video_5lEwXnmcBnV_9_160_1920x1080.mp4" />
+      <file href="mobile/poster_6RSvg0YDQNZ_video_5lEwXnmcBnV_9_160_1920x1080.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6SX8QKbd7k1.png" />
+      <file href="mobile/txt__default_6oI4Hd8Zbo5.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5eWnIix8VvD.js" />
+      <file href="html5/data/js/5jKEI3xSM3j.js" />
+      <file href="html5/data/js/5lZ1HRL3QXc.js" />
+      <file href="html5/data/js/5XuCySNJtuc.js" />
+      <file href="html5/data/js/67lF3KAEzlQ.js" />
+      <file href="html5/data/js/69YqpXjO5np.js" />
+      <file href="html5/data/js/6BN3wJVg4nv.js" />
+      <file href="html5/data/js/6CsCsWEgmPB.js" />
+      <file href="html5/data/js/6FL7GUl9acm.js" />
+      <file href="html5/data/js/6GkrRQNBhnu.js" />
+      <file href="html5/data/js/6gu8yUcUP0G.js" />
+      <file href="html5/data/js/6HCTfMW8TLY.js" />
+      <file href="html5/data/js/6HukqrZQLUV.js" />
+      <file href="html5/data/js/6j8aewr9bwY.js" />
+      <file href="html5/data/js/6JJUUDML6ux.js" />
+      <file href="html5/data/js/6K5miVoxplY.js" />
+      <file href="html5/data/js/6kVKfzGoNtl.js" />
+      <file href="html5/data/js/6SX9eJG719Y.js" />
+      <file href="html5/data/js/6YPpTtDE9Ek.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

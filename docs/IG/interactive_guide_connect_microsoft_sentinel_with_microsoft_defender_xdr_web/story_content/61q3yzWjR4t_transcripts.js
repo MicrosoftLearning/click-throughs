@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1364,"text":"Fabrikam Financials ​uses Microsoft Sentinel"},{"start":4648,"text":"and Microsoft Defender XDR"},{"start":7552,"text":"to monitor and respond to security threats across the environment.​​"},{"start":11680,"text":"As a Security operations analyst at Fabrikam Financials,"},{"start":15444,"text":"You’re responsible for ​preparing the environment for unified security operations."},{"start":20252,"text":"To enable this, ​you need to connect ​Microsoft Sentinel \r\nwith ​Microsoft Defender XDR."},{"start":26048,"text":"This involves ​installing the Defender XDR solution from Content Hub"},{"start":30368,"text":"and ​deploying the required data connector in Microsoft Sentinel."}]}]};
+    window.globalLoadJsAsset('story_content/61q3yzWjR4t_transcripts.js', JSON.stringify(data));
+})();

@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1080,"text":"You’ve now connected Microsoft Sentinel"},{"start":3329,"text":"with Microsoft Defender XDR for Fabrikam Financials.​"},{"start":8444,"text":"As the Security Operations Analyst at Fabrikam Financials,"},{"start":12164,"text":"you explored how to:​ \r\ncreate and configure a Log Analytics workspace,"},{"start":16476,"text":"add Microsoft Sentinel to the workspace,"},{"start":19224,"text":"connect Microsoft Sentinel with Microsoft Defender XDR,"},{"start":23504,"text":"access the Microsoft Defender portal experience,"},{"start":26492,"text":"review Microsoft Sentinel data in Advanced hunting,"},{"start":29808,"text":"and ​explore key Microsoft Sentinel investigation"},{"start":32876,"text":"and configuration areas."},{"start":35088,"text":"You’re now familiar with the key steps involved in preparing Microsoft Sentinel"},{"start":39308,"text":"for unified security operations."}]}]};
+    window.globalLoadJsAsset('story_content/60aFgmTLbap_transcripts.js', JSON.stringify(data));
+})();

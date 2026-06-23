@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1024,"text":"Contoso is a mid-sized financial company that uses Microsoft security solutions."},{"start":7872,"text":"You’ve recently joined its security team, and as part of your onboarding, "},{"start":11969,"text":"your manager wants you to become familiar with the Microsoft Defender portal, "},{"start":16258,"text":"where the team monitors threats and investigates security activity across the organization."},{"start":23168,"text":"Before you begin working on investigations and response activities, "},{"start":26948,"text":"you need to understand how the Defender portal is organized "},{"start":30068,"text":"and what security capabilities are available to your team."}]}]};
+    window.globalLoadJsAsset('story_content/6ReE13vcL47_transcripts.js', JSON.stringify(data));
+})();

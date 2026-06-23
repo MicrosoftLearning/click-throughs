@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1376,"text":"Contoso, a mid-sized financial services company,"},{"start":4844,"text":"uses Microsoft Entra as its identity and access management solution."},{"start":12000,"text":"Your security team has identified that "},{"start":14153,"text":"on-administrative users have been accessing Microsoft admin portals,"},{"start":18966,"text":"including the Microsoft Entra admin center "},{"start":21666,"text":"and Microsoft 365 admin center."},{"start":25241,"text":"While these users can’t make changes without admin privileges, "},{"start":28680,"text":"your organization’s security policy "},{"start":30785,"text":"requires that only authorized administrators access these portals."},{"start":37856,"text":"As a security administrator, "},{"start":39673,"text":"you need to create a Conditional Access policy "},{"start":42176,"text":"that restricts admin portal access to authorized administrators only."}]}]};
+    window.globalLoadJsAsset('story_content/6HcFYyYCOxU_transcripts.js', JSON.stringify(data));
+})();

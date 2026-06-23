@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":992,"text":"You've now completed exploring Microsoft Defender portal."},{"start":5668,"text":"As the new security team member at Contoso,"},{"start":8498,"text":"you explored Microsoft Defender portal "},{"start":11121,"text":"home page features and security insights, "},{"start":13587,"text":"navigation across major Microsoft Defender security services, "},{"start":17877,"text":"investigation, response, and threat hunting capabilities, "},{"start":22657,"text":"security management for identities, endpoints, email, cloud apps, and cloud infrastructure. "},{"start":31321,"text":"You’re now familiar with how the Microsoft Defender portal "},{"start":34547,"text":"helps security teams monitor threats, "},{"start":37235,"text":"investigate incidents, and manage organizational security."}]}]};
+    window.globalLoadJsAsset('story_content/6UPJ35DeArZ_transcripts.js', JSON.stringify(data));
+})();

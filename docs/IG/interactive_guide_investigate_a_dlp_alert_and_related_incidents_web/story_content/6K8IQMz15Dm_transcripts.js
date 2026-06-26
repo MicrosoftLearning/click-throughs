@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":612,"text":"In this interactive guide,"},{"start":2220,"text":"you completed a full data loss prevention investigation,"},{"start":5696,"text":"from alert prioritization in Microsoft Purview"},{"start":8668,"text":"to incident analysis in Microsoft Defender XDR."},{"start":13760,"text":"As a security analyst,"},{"start":15153,"text":"you used the Triage Agent to​ prioritize high-risk data protection alerts"},{"start":19784,"text":"and reviewed the Agent Summary to understand why the alert was surfaced"},{"start":23828,"text":"and whether the current policy responded as intended."},{"start":27072,"text":"You then moved to Defender XDR to examine correlated incidents"},{"start":31600,"text":"and identify behavioral patterns."},{"start":34052,"text":"You're now familiar with how to move from alert prioritization"},{"start":37476,"text":"to investigation and policy improvement"},{"start":39952,"text":"using connected Microsoft security tools."}]}]};
+    window.globalLoadJsAsset('story_content/6K8IQMz15Dm_transcripts.js', JSON.stringify(data));
+})();

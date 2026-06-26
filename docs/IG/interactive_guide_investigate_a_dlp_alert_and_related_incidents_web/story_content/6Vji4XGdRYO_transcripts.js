@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1440,"text":"Woodgrove Bank uses DLP policies​ in Microsoft Purview"},{"start":5676,"text":"to protect sensitive information shared across the organization.​"},{"start":11308,"text":"A DLP policy alert has identified​ an internal email"},{"start":15429,"text":"that may contain sensitive personally identifiable information."},{"start":21196,"text":"As a security analyst,"},{"start":22929,"text":"you need to determine whether this alert​ represents a real data exposure risk,"},{"start":27388,"text":"and whether it's ​connected to a broader pattern of behavior."},{"start":32512,"text":"By the end of this investigation,"},{"start":34400,"text":"you'll assess whether the current policy responded appropriately"},{"start":38082,"text":"and whether the activity is isolated"},{"start":40238,"text":"or part of a larger pattern."}]}]};
+    window.globalLoadJsAsset('story_content/6Vji4XGdRYO_transcripts.js', JSON.stringify(data));
+})();

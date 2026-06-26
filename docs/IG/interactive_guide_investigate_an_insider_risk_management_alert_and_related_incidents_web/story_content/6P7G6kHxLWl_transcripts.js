@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1056,"text":"In this interactive guide, you completed the investigation workflow for an insider risk management alert "},{"start":6629,"text":"across Microsoft Purview and Microsoft Defender XDR."},{"start":14016,"text":"As a security analyst, you used the Triage Agent in Microsoft Purview"},{"start":18605,"text":"to prioritize high-risk insider risk alerts, "},{"start":21701,"text":"reviewed summarized investigation details with Security Copilot,"},{"start":25872,"text":"and investigated correlated activity in Microsoft Defender XDR. "},{"start":30780,"text":"You also saw how insider risk alerts and related DLP activity can be connected into a single "},{"start":36797,"text":"incident investigation workflow across Microsoft security tools. "},{"start":40954,"text":"You're now familiar with how to prioritize insider risk alerts "},{"start":44927,"text":"and investigate related security activity across connected Microsoft security solutions."}]}]};
+    window.globalLoadJsAsset('story_content/6P7G6kHxLWl_transcripts.js', JSON.stringify(data));
+})();

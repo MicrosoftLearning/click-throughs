@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1376,"text":"Fabrikam Inc. uses Insider Risk Management in Microsoft Purview"},{"start":6325,"text":"to identify potential data misuse and exfiltration risks across a distributed workforce."},{"start":14688,"text":"A recent alert indicates potential data exfiltration activity. "},{"start":18461,"text":"Early indicators include AI-assisted access to sensitive SharePoint data and repeated high-severity DLP alerts."},{"start":28704,"text":"As a security analyst, you need to determine whether this activity represents a genuine risk and whether it's "},{"start":34752,"text":"part of a broader pattern or an isolated incident."},{"start":40032,"text":"Your investigation findings will help determine next steps, including opening a case, "},{"start":45240,"text":"escalating for review, or adjusting insider risk policies to reduce similar activity in the future."}]}]};
+    window.globalLoadJsAsset('story_content/5ix7xq4lwkt_transcripts.js', JSON.stringify(data));
+})();

@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":768,"text":"You’ll complete the task(s) on your own. Follow these guidelines:"},{"start":4640,"text":"Select the correct area on the screen to complete each step."},{"start":7936,"text":"A correct selection moves you forward."},{"start":10624,"text":"If you select an incorrect area, the correct target will be highlighted to guide you. "},{"start":15200,"text":"If more than one path is available, "},{"start":17984,"text":"choose the most direct option."},{"start":20160,"text":"Use the MENU to view tasks and steps and track your progress."},{"start":23776,"text":"The NOTES panel provides additional context for the current step."},{"start":27968,"text":"For a better view, you can select the full screen icon in the player controls."},{"start":32287,"text":"If you need additional readability support, use Zoom to fit in player settings."},{"start":37728,"text":"When you're ready, select NEXT to continue."}]}]};
+    window.globalLoadJsAsset('story_content/6efa3qWXCtL_transcripts.js', JSON.stringify(data));
+})();
